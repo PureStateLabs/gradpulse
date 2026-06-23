@@ -3,6 +3,7 @@
 [![Python 3.10-3.13](https://img.shields.io/badge/python-3.10%E2%80%933.13-blue.svg)](#installation)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![tests](https://github.com/PureStateLabs/gradpulse/actions/workflows/tests.yml/badge.svg)](https://github.com/PureStateLabs/gradpulse/actions)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20805657.svg)](https://doi.org/10.5281/zenodo.20805657)
 
 **A differentiable, multi-solver-validated, open-system pulse optimizer for predictive superconducting-gate fidelities**
 
