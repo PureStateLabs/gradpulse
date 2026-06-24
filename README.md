@@ -22,7 +22,13 @@ Built and maintained by [Pure State Labs Inc.](https://purestatelabs.com)
 > **release (v0.6.0).**
 
 ```bash
+Install · Python 3.10–3.13
+
+# install from PyPI
 pip install gradpulse
+
+# with validation + viz extras
+pip install "gradpulse[validate,viz]"
 
 ## Quickstart
 
