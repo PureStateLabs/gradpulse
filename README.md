@@ -19,15 +19,10 @@ Built and maintained by [Pure State Labs Inc.](https://purestatelabs.com)
 
 ## Installation
 
-> **Pre-release (v0.6.0, beta).** Not on PyPI yet, so install from source.
+> **release (v0.6.0).**
 
 ```bash
-git clone https://github.com/PureStateLabs/gradpulse
-cd gradpulse
-pip install -e ".[validate,viz]"   # core + QuTiP cross-check + Matplotlib
-```
-
-Just the optimizer (PyTorch + NumPy): `pip install -e .`. For the hardware paths add `[braket]`, `[openpulse]`, or `[benchmark]`.
+pip install gradpulse
 
 ## Quickstart
 
